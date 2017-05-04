@@ -12,7 +12,7 @@ How to create the Service Catalog
 * [Import](https://github.com/rhtconsulting/cfme-rhconsulting-scripts) the service dialog and automation code
 * Add a new Service Catalog Item with a VMware Catalog Item Type
 * Under [Request Info](images/request.png), choose Specification as the Customize option. 
-* You don't have to select Custom Specification. Just select None.
+* You don't have to select a Custom Specification. You can just select None.
 
 After the VM is provisioned, the network information will be set:
 
