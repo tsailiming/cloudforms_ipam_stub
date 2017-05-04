@@ -1,7 +1,7 @@
 Introduction
 ===
 
-This is a stub integration with IPAM using the `acquire_ip_method` for Linux for VMware.
+This is a stub integration with IPAM using the `acquire_ip_address` method for Linux on VMware.
 
 I have not tested this with others providers.
 
